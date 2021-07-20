@@ -15,7 +15,7 @@ const parseToken = require('./lib/parse-token')
 const updateNotifier = require('./lib/update-notifier')
 const { getCoupons, getRule } = require('./lib/coupons')
 
-const TOKEN = process.env.MEITUANTOKEN
+const TOKEN = process.env.MEITUAN_TOKEN
 const notifier = new Notifier({
   barkKey: process.env.BARK_KEY,
   workWechat: process.env.QYWX_SEND_CONF,
