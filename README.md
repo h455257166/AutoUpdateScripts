@@ -33,7 +33,7 @@ token=Js3xxxxFyy_Aq-rOnxMte6vKPV4AAAAA6QwAADgqRBSfcmNqyuG8CQ7JDL7xxxxNGbfF7tPNV5
    2. 在仓库菜单栏中，点击 `⚙️Settings`（设置）
    3. 点击侧边栏 `Secrets`（密码）条目
    4. 点击 `New repository secret` 创建仓库密码
-      1. 在 `Name` 输入框中填入 `TOKEN`
+      1. 在 `Name` 输入框中填入 `MEITUAN_TOKEN`
       2. 在 `Value` 输入框中填入从 cookie 中提取的 token 值
    5. 点击 `Add secret` 保存配置
 
